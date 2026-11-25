@@ -1,4 +1,4 @@
-MARKDOWN
+
 # Platform outcomes
 
 ## Developer outcome
@@ -16,4 +16,3 @@ The platform exposes live health, policy results, logs, metrics, and traces.
 
 ## Safety outcome
 No agent receives an unrestricted path to change the cluster or network.
-The file gives 
