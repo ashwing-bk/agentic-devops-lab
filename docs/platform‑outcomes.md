@@ -3,10 +3,10 @@
 
 ## Developer outcome
 A developer can request a governed agent service without learning the
-implementation details of every platform component.
+implementation details of every platform component. Developers have a very simple experience in requesting and receiving platform services. 
 
 ## Delivery outcome
-Every generated resource is stored in Git and reconciled by Argo CD.
+Every generated resource is stored in Git and reconciled by Argo CD. 
 
 ## Runtime outcome
 Model and tool traffic uses approved gateways, identities, and policies.
